@@ -1,0 +1,13 @@
+{
+  "topg": "bedrock_altitude",
+  "ice_frac": "land_ice_area_fraction",
+  "temp": "land_ice_temperature",
+  "thk": "land_ice_thickness",
+  "vx": "land_ice_x_velocity",
+  "vy": "land_ice_y_velocity",
+  "lat": "latitude",
+  "lon": "longitude",
+  "usurf": "surface_altitude",
+  "hflx": "upward_geothermal_heat_flux_at_ground_level",
+  "vz": "land_ice_upward_velocity"
+}
