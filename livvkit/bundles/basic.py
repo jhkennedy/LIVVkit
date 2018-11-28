@@ -11,6 +11,10 @@ class CFNameError(ValueError):
     """Raise this when a standard name cannot be found in the CF Standard Name Table.
     """
 
+class BundleValueError(ValueError):
+    """Raise this when bundle doesn't have expected data.
+    """
+
 
 class Variable(object):
     def __init__(self, name, bundle):

@@ -1,0 +1,18 @@
+{
+  "atm": {
+    "glob": "cam/*.nc",
+    "model": "CAM 5"
+  },
+  "lnd": {
+    "glob": "clm/*.nc",
+    "model": "CLM 5"
+  },
+  "ocn": {
+    "glob": "ocn/*.nc",
+    "model": "MPAS Ocean"
+  },
+  "glc": {
+    "glob": "glc/*.nc",
+    "model": "MALI"
+  }
+}
