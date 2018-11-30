@@ -77,6 +77,7 @@ setup(
       install_requires=['six',
                         'numpy',
                         'scipy',
+                        'xarray',
                         'netCDF4',
                         'matplotlib',
                         'json_tricks==3.11.0'
